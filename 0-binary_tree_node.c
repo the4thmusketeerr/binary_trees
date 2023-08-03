@@ -1,4 +1,4 @@
-#include <stdlib.h>
+#include "binary_trees.h"
 
 typedef struct binary_tree_s {
     int value;
